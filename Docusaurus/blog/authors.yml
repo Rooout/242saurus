@@ -1,3 +1,21 @@
+Rooout:
+  name: Farrel
+  title: Student
+  url: https://github.com/Rooout
+  image_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Meme_Man_on_transparent_background.webp/316px-Meme_Man_on_transparent_background.webp.png
+  page: true
+  socials:
+    github: Rooout
+
+fazirta:
+  name: Fazil
+  title: Student
+  url: https://github.com/fazirta
+  image_url: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Meme_Man_on_transparent_background.webp/316px-Meme_Man_on_transparent_background.webp.png
+  page: true
+  socials:
+    github: fazirta
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
